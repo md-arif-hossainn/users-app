@@ -15,7 +15,7 @@ A Flutter application demonstrating Clean Architecture, BLoC state management, a
 
 ## Screenshots
 
-| User List Screen                                | User Details Screen                                  |
-|-------------------------------------------------|------------------------------------------------------|
-| ![User List](screenshots/user_list_screen.jpeg) | ![User Detail](screenshots/user_details_screen.jpeg) |
+| User List Screen                      | User Details Screen                          |
+|---------------------------------------|----------------------------------------------|
+| ![User List](screenshots/user_list.png) | ![User Detail](screenshots/user_details.png) |
 
