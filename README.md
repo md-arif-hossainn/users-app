@@ -1,4 +1,4 @@
-# Sokrio Users
+# Users App
 
 A Flutter application demonstrating Clean Architecture, BLoC state management, and API integration.
 
